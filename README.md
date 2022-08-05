@@ -1,8 +1,10 @@
-# rio-toa
+# rio-toa + Landsat 5
 [![Build Status](https://travis-ci.org/mapbox/rio-toa.svg?branch=master)](https://travis-ci.org/mapbox/rio-toa)
 [![Coverage Status](https://coveralls.io/repos/github/mapbox/rio-toa/badge.svg?branch=the-sunangle-also-rises)](https://coveralls.io/github/mapbox/rio-toa?branch=the-sunangle-also-rises)
 
-Top Of Atmosphere (TOA) calculations for Landsat 8
+Top Of Atmosphere (TOA) calculations for Landsat 8 (and Landsat 5)
+
+`Note:` This is a fork since the maintainers seem to have orphaned the original repository. The repository at hand has one modification in addition to enable Landsat 5.
 
 ## Before/After
 ##### Savissivik, Greenland 2016-02-29
