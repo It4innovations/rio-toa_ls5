@@ -132,12 +132,12 @@ def calculate_landsat_brightness_temperature(
 
     K1 = toa_utils._load_mtl_key(mtl,
                                  ['L1_METADATA_FILE',
-                                  'TIRS_THERMAL_CONSTANTS',
+                                  'THERMAL_CONSTANTS',
                                   'K1_CONSTANT_BAND_'],
                                  band)
     K2 = toa_utils._load_mtl_key(mtl,
                                  ['L1_METADATA_FILE',
-                                  'TIRS_THERMAL_CONSTANTS',
+                                  'THERMAL_CONSTANTS',
                                   'K2_CONSTANT_BAND_'],
                                  band)
 
